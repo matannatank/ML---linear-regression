@@ -1,0 +1,10 @@
+in our project we use at some libraries, so before run the program we need download the libraries :
+
+pandas 
+matplotlib.pyplot 
+numpy 
+seaborn 
+sklearn.preprocessing 
+sklearn.metrics 
+sklearn.model_selection 
+sklearn.linear_model 
